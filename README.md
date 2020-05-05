@@ -6,5 +6,5 @@ SSL证书未完成验证，未使用https协议
 体征数据模块由于bug还未完成
 account：10019
 password：123
-网址：www.timstudyopen.com/Z_HIS/login.jsp
+网址：https://www.timstudyopen.com/Z_HIS/login.jsp
 
